@@ -1,0 +1,6 @@
+{
+  "name": "منصة دليل الأطباء الذكية",
+  "description": "منصة صحية متكاملة لتسهيل وصول المرضى إلى الأطباء وتصفح التخصصات وحجز المواعيد وتقييم الأطباء.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
